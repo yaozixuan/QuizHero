@@ -1,3 +1,1 @@
-public class UserDao
-private Sql2o sql2o;
-public UserDao(Sql2o sql2o)
+1 2 3 4 5 6 7 8 9
